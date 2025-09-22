@@ -1,2 +1,2 @@
 # Kids-General-Health-Care-Website
-This repository presents a dynamic web application created for the Secure Digital Health Care course. 
+This repository presents a dynamic web application created for the Secure Digital Health Care course. The system, developed with PHP, HTML, CSS, and JavaScript, offers a secure portal for booking doctor appointments for children. The project applies key security principles such as authentication, input validation, session management, role-based access control, and data encryption to protect patient information and ensure compliance with healthcare security standards.
